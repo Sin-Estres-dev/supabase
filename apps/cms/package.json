@@ -45,7 +45,7 @@
     "cross-env": "^7.0.3",
     "eslint-config-supabase": "workspace:*",
     "graphql": "^16.11.0",
-    "image-size": "2.0.2",
+    "image-size": "2.0.4",
     "lucide-react": "^0.511.0",
     "next": "catalog:",
     "payload": "3.52.0",
